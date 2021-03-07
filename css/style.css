@@ -59,6 +59,8 @@ p {
   line-height: 1.8em;
   letter-spacing: .103em;
   margin-bottom: 15px;
+  text-align: justify;
+ text-decoration-color: gray;
 }
 
 span {
