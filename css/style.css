@@ -74,6 +74,7 @@ span {
 
 img {
   display: inline-block;
+  
   margin: 0 40px;
 }
 
@@ -100,7 +101,7 @@ img {
 } 
 
 #back {
-  background: rgba(247,211,27,1);
+  background: rgb(232, 165, 165);
   text-align: center;
   padding: 130px 35px 35px;
 }
@@ -108,7 +109,7 @@ img {
 #title-box {
   width: 252px;
   height: 165px;
-  background: rgba(247,211,27,1);
+  background: rgb(232, 165, 165);
   margin-left: 163px;
   padding-top: 25px;
 }
